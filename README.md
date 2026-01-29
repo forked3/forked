@@ -1,3 +1,1 @@
 # forked
-
-ccid: vsati
