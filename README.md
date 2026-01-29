@@ -1,4 +1,4 @@
 # forked
 
 ccid: vbodar
-Please check .idea as adviced by TA
+Please check .idea as advised by TA
