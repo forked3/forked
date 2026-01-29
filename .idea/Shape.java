@@ -2,7 +2,7 @@ public abstract class Shape(){
     int x;
     int y;
 
-    String color = "Blue";
+    String color = "Red";
 
     public Shape (int x, int y){
         this.x = x;
