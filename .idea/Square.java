@@ -1,10 +1,8 @@
-public class Square extends Shape{
+public class Square extends Shape {
     int sideLength;
 
     public Square(int x, int y, int sideLength) {
-        super(x,y);
-        this.x = x;
-        this.y = y;
+        super(x, y);
         this.sideLength = sideLength;
     }
 }
